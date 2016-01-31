@@ -1,0 +1,17 @@
+{
+  "name": "prez-bots",
+  "version": "1.0.0",
+  "description": "Markov bots for presidential candidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jsHintConfig":{
+    "esnext":true
+  }
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markov": "0.0.7"
+  }
+}

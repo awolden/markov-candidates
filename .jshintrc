@@ -1,0 +1,27 @@
+{
+    "bitwise": true,
+    "noarg": true,
+    "esnext": true,
+    "freeze": true,
+    "unused": true,
+    "maxdepth": 5,
+    "undef": true,
+    "eqeqeq": true,
+    "immed": true,
+    "node": true,
+    "quotmark": "single",
+    "newcap": true,
+    "predef": [
+        "console",
+        "module",
+        "angular",
+        "require",
+        "it",
+        "before",
+        "after",
+        "describe",
+        "$",
+        "document",
+        "__base"
+    ]
+}
